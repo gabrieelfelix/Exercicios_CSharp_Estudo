@@ -3,8 +3,12 @@
 Exercícios introdutórios resolvidos em C#.
 
 ## Conteúdo Abordado
-
-
+‣ Conceito de Variável
+‣ Input de Console 
+‣ Operadores Aritméticos
+‣ Operadores Logicos 
+‣ Condicionais
+‣ Laços de Repetição
 ##
 
 ## Questões
